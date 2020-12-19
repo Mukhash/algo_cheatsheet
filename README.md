@@ -4,4 +4,4 @@ This repo is for keeping shorthand frequently used operations while solving algo
 # Strings
 
 ### Erasing whitespaces
-> str.trim().replace("\\s+".toRegex(), " ")
+> str.trim().replace("\\\s+".toRegex(), " ")
