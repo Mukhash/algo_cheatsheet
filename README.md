@@ -20,3 +20,6 @@ This repo is for keeping shorthand frequently used operations while solving algo
 ### If statements
 > If in kotlin is an expression, not a statement like in Java, so it is possible:
 > val b: String = if (1 < 2) "yes" else "no"
+
+### forEach and break/continue/return
+> break doesn't work in forEach loop, works in for loop
