@@ -11,6 +11,11 @@ This repo is for keeping shorthand frequently used operations while solving algo
   str.forEachIndexed { index: Int, c: Char -> 
   println(str[index] }
   
+### Comparing
+#### Compare chars
+> fun compareTo(other: Char): Int
+> Return difference between ASCII decimal values, 0 if equal
+  
 # Kotlin
 ### If statements
 > If in kotlin is an expression, not a statement like in Java, so it is possible:
