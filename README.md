@@ -30,3 +30,18 @@ This repo is for keeping shorthand frequently used operations while solving algo
 
 ### forEach and break/continue/return
 > break doesn't work in forEach loop, works in for loop
+
+### for loops
+> for (item in collection) print(item)  
+> for (i in 1..3) {
+    println(i)
+}  
+> for (i in 6 downTo 0 step 2) {
+    println(i)
+}  
+> for (i in array.indices) {
+    println(array[i])
+}  
+> for ((index, value) in array.withIndex()) {
+    println("the element at $index is $value")
+}  
