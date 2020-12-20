@@ -1,6 +1,9 @@
 # algo_cheatsheet
 This repo is for keeping shorthand frequently used operations while solving algorithmic questions
 
+# Collections
+
+
 # Strings
 
 ### Erasing whitespaces
@@ -18,6 +21,7 @@ This repo is for keeping shorthand frequently used operations while solving algo
 
 ### Join to String CharArray/Array<Char>
 > charArray.joinToString()
+> String(charArray)
   
 # Kotlin
 ### If statements
