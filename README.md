@@ -15,6 +15,9 @@ This repo is for keeping shorthand frequently used operations while solving algo
 #### Compare chars
 > fun compareTo(other: Char): Int
 > Return difference between ASCII decimal values, 0 if equal
+
+### Join to String CharArray/Array<Char>
+> charArray.joinToString()
   
 # Kotlin
 ### If statements
